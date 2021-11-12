@@ -1,6 +1,6 @@
 # From https://gist.github.com/kimbo/dd65d539970e3a28a10628f15398247b
 
-#!/usr/bin/env python
+#!/usr/bin/env python2
 #
 # Scrape Doh provider URLs from Curl's DNS-over-HTTPS wiki (https://raw.githubusercontent.com/wiki/curl/curl/DNS-over-HTTPS).
 # 
